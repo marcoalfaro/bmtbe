@@ -8,10 +8,10 @@
 module.exports = {
 
     attributes: {
-        id: {
-            type: 'integer',
-            unique: true
-        },
+        // id: {
+        //     type: 'integer',
+        //     unique: true
+        // },
         dateTime: 'datetime',
         weight: 'float',
         fat: 'float',
